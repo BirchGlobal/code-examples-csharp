@@ -83,48 +83,7 @@
               ],
               "ResultsPageText": "The envelope has been created and sent!<br />Envelope ID {0}."
             },
-            {
-              "ExampleNumber": 9,
-              "CFREnabled": "AllAccounts",
-              "ExampleName": "Send an envelope using a template",
-              "ExampleDescription": "The envelope is defined by the template. The signer and cc recipient name and email are used to fill in the template's <i>roles</i>.",
-              "LinksToAPIMethod": [
-                {
-                  "Path": "https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopes/create/",
-                  "PathName": "Envelopes:create"
-                }
-              ],
-              "RedirectsToOtherCodeExamples": [
-                {
-                  "CodeExampleToRedirectTo": 8,
-                  "RedirectText": "<p>Prerequisite: Please first create the template using <a {0}>Create a template</a>.</p>"
-                }
-              ],
-              "Forms": [
-                {
-                  "FormName": "<p>The template you created via Create a template will be used.<br/>The document list is from your results for List an envelope's documents.</p>",
-                  "Inputs": [
-                    {
-                      "InputName": "Signer Email",
-                      "InputPlaceholder": "pat@example.com"
-                    },
-                    {
-                      "InputName": "Signer Name",
-                      "InputPlaceholder": "Pat Johnson"
-                    },
-                    {
-                      "InputName": "CC Email",
-                      "InputPlaceholder": "pat@example.com"
-                    },
-                    {
-                      "InputName": "CC Name",
-                      "InputPlaceholder": "Pat Johnson"
-                    }
-                  ]
-                }
-              ],
-              "ResultsPageText": "The envelope has been created and sent!<br/>Envelope ID {0}."
-            },
+           
             {
               "ExampleNumber": 42,
               "CFREnabled": "NonCFR",
@@ -190,58 +149,7 @@
               ],
               "ResultsPageText": "The envelope has been created and sent!<br />Envelope ID {0}."
             },
-            {
-              "ExampleNumber": 37,
-              "CFREnabled": "NonCFR",
-              "ExampleName": "Request a signature by SMS or WhatsApp delivery",
-              "ExampleDescription": "Sends a signature request via an SMS or WhatsApp message.",
-              "LinksToAPIMethod": [
-                {
-                  "Path": "https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopes/create/",
-                  "PathName": "Envelopes::create"
-                }
-              ],
-              "Forms": [
-                {
-                  "Inputs": [
-                    {
-                      "InputName": "Signer Country Code",
-                      "InputPlaceholder": "1"
-                    },
-                    {
-                      "InputName": "Signer Phone Number",
-                      "InputPlaceholder": "4155551212"
-                    },
-                    {
-                      "InputName": "Signer Name",
-                      "InputPlaceholder": "Pat Johnson"
-                    },
-                    {
-                      "InputName": "CC Country Code",
-                      "InputPlaceholder": "1"
-                    },
-                    {
-                      "InputName": "CC Phone Number",
-                      "InputPlaceholder": "4155551212"
-                    },
-                    {
-                      "InputName": "CC Name",
-                      "InputPlaceholder": "Pat Johnson"
-                    },
-                    {
-                      "InputName": "Delivery Method:"
-                    },
-                    {
-                      "InputName": "SMS"
-                    },
-                    {
-                      "InputName": "WhatsApp"
-                    }
-                  ]
-                }
-              ],
-              "ResultsPageText": "The envelope has been created and sent!<br />Envelope ID {0}."
-            }
+            
           ]
         }
       ]
