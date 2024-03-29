@@ -83,54 +83,12 @@
               ],
               "ResultsPageText": "The envelope has been created and sent!<br />Envelope ID {0}."
             },
-            {
-              "ExampleNumber": 9,
-              "CFREnabled": "AllAccounts",
-              "ExampleName": "Send an envelope using a template",
-              "ExampleDescription": "The envelope is defined by the template. The signer and cc recipient name and email are used to fill in the template's <i>roles</i>.",
-              "LinksToAPIMethod": [
-                {
-                  "Path": "https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopes/create/",
-                  "PathName": "Envelopes:create"
-                }
-              ],
-              "RedirectsToOtherCodeExamples": [
-                {
-                  "CodeExampleToRedirectTo": 8,
-                  "RedirectText": "<p>Prerequisite: Please first create the template using <a {0}>Create a template</a>.</p>"
-                }
-              ],
-              "Forms": [
-                {
-                  "FormName": "<p>The template you created via Create a template will be used.<br/>The document list is from your results for List an envelope's documents.</p>",
-                  "Inputs": [
-                    {
-                      "InputName": "Signer Email",
-                      "InputPlaceholder": "pat@example.com"
-                    },
-                    {
-                      "InputName": "Signer Name",
-                      "InputPlaceholder": "Pat Johnson"
-                    },
-                    {
-                      "InputName": "CC Email",
-                      "InputPlaceholder": "pat@example.com"
-                    },
-                    {
-                      "InputName": "CC Name",
-                      "InputPlaceholder": "Pat Johnson"
-                    }
-                  ]
-                }
-              ],
-              "ResultsPageText": "The envelope has been created and sent!<br/>Envelope ID {0}."
-            },
-
+          
 
                  {
               "ExampleNumber": 42,
               "CFREnabled": "NonCFR",
-              "ExampleName": "Request a signature by email with document generation",
+              "ExampleName": "4Request a signature by email with document generation",
               "ExampleDescription": "Creates an envelope from a template with a document that is dynamically generated to include all the customized data specified by the sender.",
               
               "Forms": [
@@ -164,11 +122,88 @@
               "ResultsPageText": "The envelope has been created and sent!<br />Envelope ID {0}."
             },
 
+
+
+
+               {
+              "ExampleNumber": 42,
+              "CFREnabled": "NonCFR",
+              "ExampleName": "3Request a signature by email with document generation",
+              "ExampleDescription": "Creates an envelope from a template with a document that is dynamically generated to include all the customized data specified by the sender.",
+              
+              "Forms": [
+                {
+                  "Inputs": [
+                    {
+                      "InputName": "Candidate Email",
+                      "InputPlaceholder": "pat@example.com"
+                    },
+                    {
+                      "InputName": "Candidate Name",
+                      "InputPlaceholder": "Pat Johnson"
+                    },
+                    {
+                      "InputName": "Manager Name",
+                      "InputPlaceholder": "Pat Johnson"
+                    },
+                    {
+                      "InputName": "Job Title"
+                    },
+                    {
+                      "InputName": "Salary"
+                    },
+                    {
+                      "InputName": "Start Date",
+                      "InputPlaceholder": "mm/dd/yyyy"
+                    }
+                  ]
+                }
+              ],
+              "ResultsPageText": "The envelope has been created and sent!<br />Envelope ID {0}."
+            },
+
+
             
+               {
+              "ExampleNumber": 42,
+              "CFREnabled": "NonCFR",
+              "ExampleName": "2Request a signature by email with document generation",
+              "ExampleDescription": "Creates an envelope from a template with a document that is dynamically generated to include all the customized data specified by the sender.",
+              
+              "Forms": [
+                {
+                  "Inputs": [
+                    {
+                      "InputName": "Candidate Email",
+                      "InputPlaceholder": "pat@example.com"
+                    },
+                    {
+                      "InputName": "Candidate Name",
+                      "InputPlaceholder": "Pat Johnson"
+                    },
+                    {
+                      "InputName": "Manager Name",
+                      "InputPlaceholder": "Pat Johnson"
+                    },
+                    {
+                      "InputName": "Job Title"
+                    },
+                    {
+                      "InputName": "Salary"
+                    },
+                    {
+                      "InputName": "Start Date",
+                      "InputPlaceholder": "mm/dd/yyyy"
+                    }
+                  ]
+                }
+              ],
+              "ResultsPageText": "The envelope has been created and sent!<br />Envelope ID {0}."
+            },
             {
               "ExampleNumber": 42,
               "CFREnabled": "NonCFR",
-              "ExampleName": "Request a signature by email with document generation",
+              "ExampleName": "1Request a signature by email with document generation",
               "ExampleDescription": "Creates an envelope from a template with a document that is dynamically generated to include all the customized data specified by the sender.",
               
               "Forms": [
