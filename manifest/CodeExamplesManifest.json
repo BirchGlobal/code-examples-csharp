@@ -1,6 +1,6 @@
 {
    "SupportingTexts":{
-      "HomePageText":"Run and explore DocuSign code examples with Authorization Code Grant or JWT Grant authentication",
+      "HomePageText":"Run authentication",
       "ViewSourceFile":"View source file {0} on GitHub.",
       "APIMethodUsed":"API method used:",
       "APIMethodUsedPlural":"API methods used:",
