@@ -130,36 +130,7 @@
               "CFREnabled": "NonCFR",
               "ExampleName": "Request a signature by email with document generation",
               "ExampleDescription": "Creates an envelope from a template with a document that is dynamically generated to include all the customized data specified by the sender.",
-              "LinksToAPIMethod": [
-                {
-                  "Path": "https://developers.docusign.com/docs/esign-rest-api/reference/templates/templates/create/",
-                  "PathName": "Templates:create"
-                },
-                {
-                  "Path": "https://developers.docusign.com/docs/esign-rest-api/reference/templates/templatedocuments/update/",
-                  "PathName": "TemplateDocuments:update"
-                },
-                {
-                  "Path": "https://developers.docusign.com/docs/esign-rest-api/reference/templates/templaterecipienttabs/create/",
-                  "PathName": "TemplateRecipientTabs:create"
-                },
-                {
-                  "Path": "https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopes/create/",
-                  "PathName": "Envelopes:create"
-                },
-                {
-                  "Path": "https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/documentgeneration/getenvelopedocgenformfields/",
-                  "PathName": "DocumentGeneration:getEnvelopeDocGenFormFields"
-                },
-                {
-                  "Path": "https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/documentgeneration/updateenvelopedocgenformfields/",
-                  "PathName": "DocumentGeneration:updateEnvelopeDocGenFormFields"
-                },
-                {
-                  "Path": "https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopes/update/",
-                  "PathName": "Envelopes:update"
-                }
-              ],
+              
               "Forms": [
                 {
                   "Inputs": [
