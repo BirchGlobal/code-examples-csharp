@@ -64,15 +64,15 @@
                       "InputPlaceholder": "pat@example.com"
                     },
                     {
-                      "InputName": "Candidate Name",
+                      "InputName": "Investor Name",
                       "InputPlaceholder": "Pat Johnson"
                     },
                     {
-                      "InputName": "Manager Name",
+                      "InputName": "LLC Name",
                       "InputPlaceholder": "Pat Johnson"
                     },
                     {
-                      "InputName": "Job Title"
+                      "InputName": "State"
                     },
                     {
                       "InputName": "Salary"
@@ -104,15 +104,15 @@
                       "InputPlaceholder": "pat@example.com"
                     },
                     {
-                      "InputName": "Candidate Name",
+                      "InputName": "Investor Name",
                       "InputPlaceholder": "Pat Johnson"
                     },
                     {
-                      "InputName": "Manager Name",
+                      "InputName": "LLC Name",
                       "InputPlaceholder": "Pat Johnson"
                     },
                     {
-                      "InputName": "Job Title"
+                      "InputName": "State"
                     },
                     {
                       "InputName": "Salary"
@@ -143,15 +143,15 @@
                       "InputPlaceholder": "pat@example.com"
                     },
                     {
-                      "InputName": "Candidate Name",
+                      "InputName": "Investor Name",
                       "InputPlaceholder": "Pat Johnson"
                     },
                     {
-                      "InputName": "Manager Name",
+                      "InputName": "LLC Name",
                       "InputPlaceholder": "Pat Johnson"
                     },
                     {
-                      "InputName": "Job Title"
+                      "InputName": "State"
                     },
                     {
                       "InputName": "Salary"
