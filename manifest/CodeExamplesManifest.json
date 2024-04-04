@@ -116,9 +116,7 @@
                     {
                       "InputName": "State"
                     },
-                    {
-                      "InputName": "Salary"
-                    },
+                 
                     {
                       "InputName": "Start Date",
                       "InputPlaceholder": "mm/dd/yyyy"
@@ -155,9 +153,7 @@
                     {
                       "InputName": "State"
                     },
-                    {
-                      "InputName": "Salary"
-                    },
+                 
                     {
                       "InputName": "Start Date",
                       "InputPlaceholder": "mm/dd/yyyy"
@@ -191,9 +187,7 @@
                     {
                       "InputName": "Job Title"
                     },
-                    {
-                      "InputName": "Salary"
-                    },
+                  
                     {
                       "InputName": "Start Date",
                       "InputPlaceholder": "mm/dd/yyyy"
