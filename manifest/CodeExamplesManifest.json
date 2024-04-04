@@ -1,6 +1,6 @@
 {
   "SupportingTexts": {
-    "HomePageText": "Run2 authentication",
+    "HomePageText": "Creative Solutions for Family Officesand Advisors to High-Net-Worth Individuals ",
     "ViewSourceFile": "View source file {0} on GitHub.",
     "APIMethodUsed": "API method used:",
     "APIMethodUsedPlural": "API methods used:",
@@ -97,58 +97,7 @@
 
            
         
-            {
-              "ExampleNumber": 37,
-              "CFREnabled": "NonCFR",
-              "ExampleName": "Request a signature by SMS or WhatsApp delivery",
-              "ExampleDescription": "Sends a signature request via an SMS or WhatsApp message.",
-              "LinksToAPIMethod": [
-                {
-                  "Path": "https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopes/create/",
-                  "PathName": "Envelopes::create"
-                }
-              ],
-              "Forms": [
-                {
-                  "Inputs": [
-                    {
-                      "InputName": "Signer Country Code",
-                      "InputPlaceholder": "1"
-                    },
-                    {
-                      "InputName": "Signer Phone Number",
-                      "InputPlaceholder": "4155551212"
-                    },
-                    {
-                      "InputName": "Signer Name",
-                      "InputPlaceholder": "Pat Johnson"
-                    },
-                    {
-                      "InputName": "CC Country Code",
-                      "InputPlaceholder": "1"
-                    },
-                    {
-                      "InputName": "CC Phone Number",
-                      "InputPlaceholder": "4155551212"
-                    },
-                    {
-                      "InputName": "CC Name",
-                      "InputPlaceholder": "Pat Johnson"
-                    },
-                    {
-                      "InputName": "Delivery Method:"
-                    },
-                    {
-                      "InputName": "SMS"
-                    },
-                    {
-                      "InputName": "WhatsApp"
-                    }
-                  ]
-                }
-              ],
-              "ResultsPageText": "The envelope has been created and sent!<br />Envelope ID {0}."
-            }
+      
           ]
         }
       ]
