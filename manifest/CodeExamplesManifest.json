@@ -78,7 +78,10 @@
                     },
 
                   
-                    
+                         {
+                      "InputName": "Salary"
+                    },
+
                     {
                       "InputName": "Start Date",
                       "InputPlaceholder": "mm/dd/yyyy"
