@@ -71,9 +71,17 @@
                       "InputName": "LLC Name",
                       "InputPlaceholder": "Pat Johnson"
                     },
+
+                    
                     {
                       "InputName": "State"
                     },
+
+                      {
+                      "InputName": "Salary"
+                    },
+
+                    
                     {
                       "InputName": "Start Date",
                       "InputPlaceholder": "mm/dd/yyyy"
