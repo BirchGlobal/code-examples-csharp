@@ -83,41 +83,31 @@
               ],
               "ResultsPageText": "The document has been created and sent!<br />Envelope ID {0}."
             },
-            {
-              "ExampleNumber": 41,
-              "CFREnabled": "NonCFR",
-              "ExampleName": "Third Party Authorization Form",
-              "ExampleDescription": "This document is a statement authorizing a third party, Brandon C. Dixon of Dixon Law Firm, PLLC, to apply for and receive an Employer Identification Number (EIN) online on behalf of a specific LLC. It includes a declaration that the LLC manager understands the implications of providing a social security number to the third-party designee for the purpose of obtaining an EIN. The document requires the date and signature of the LLC manager.",
-              "Forms": [
-                {
-                  "Inputs": [
-                    {
-                      "InputName": "Investor Email",
-                      "InputPlaceholder": "pat@example.com"
-                    },
-                    {
-                      "InputName": "Investor Name",
-                      "InputPlaceholder": "Pat Johnson"
-                    },
-                    {
-                      "InputName": "LLC Name",
-                      "InputPlaceholder": "Pat Johnson"
-                    },
-                    {
-                      "InputName": "State"
-                    },
-                    {
-                      "InputName": "Salary"
-                    },
-                    {
-                      "InputName": "Start Date",
-                      "InputPlaceholder": "mm/dd/yyyy"
-                    }
-                  ]
-                }
-              ],
-              "ResultsPageText": "The document has been created and sent!<br />Envelope ID {0}."
-            }
+         {
+  "ExampleNumber": 41,
+  "CFREnabled": "NonCFR",
+  "ExampleName": "Third Party Authorization Form",
+  "ExampleDescription": "This document is a statement authorizing a third party, Brandon C. Dixon of Dixon Law Firm, PLLC, to apply for and receive an Employer Identification Number (EIN) online on behalf of a specific LLC. It includes a declaration that the LLC manager understands the implications of providing a social security number to the third-party designee for the purpose of obtaining an EIN. The document requires the date and signature of the LLC manager.",
+  "Forms": [
+    {
+      "Inputs": [
+        {
+          "InputName": "Candidate Email",
+          "InputPlaceholder": "pat@example.com"
+        },
+        {
+          "InputName": "Candidate Name",
+          "InputPlaceholder": "Pat Johnson"
+        },
+        {
+          "InputName": "Start Date",
+          "InputPlaceholder": "mm/dd/yyyy"
+        }
+      ]
+    }
+  ],
+  "ResultsPageText": "The document has been created and sent!<br />Envelope ID {0}."
+}
           ]
         }
       ]
