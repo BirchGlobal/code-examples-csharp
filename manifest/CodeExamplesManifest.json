@@ -83,7 +83,7 @@
               ],
               "ResultsPageText": "The document has been created and sent!<br />Envelope ID {0}."
             },
-         {
+        {
   "ExampleNumber": 41,
   "CFREnabled": "NonCFR",
   "ExampleName": "Third Party Authorization Form",
@@ -102,6 +102,14 @@
         {
           "InputName": "Start Date",
           "InputPlaceholder": "mm/dd/yyyy"
+        },
+        {
+          "InputName": "Advisor Name",
+          "InputPlaceholder": "John Smith"
+        },
+        {
+          "InputName": "Advisor Email",
+          "InputPlaceholder": "john@example.com"
         }
       ]
     }
