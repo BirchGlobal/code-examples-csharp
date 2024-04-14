@@ -46,13 +46,13 @@
       "Name": "eSignature",
       "Groups": [
         {
-          "Name": "Sending a signature request (remote signing)",
+          "Name": "Create contracts for investors",
           "Examples": [
             {
               "ExampleNumber": 42,
               "CFREnabled": "NonCFR",
-              "ExampleName": "Third Party Authorization Form",
-              "ExampleDescription": "This document is a statement authorizing a third party, Brandon C. Dixon of Dixon Law Firm, PLLC, to apply for and receive an Employer Identification Number (EIN) online on behalf of a specific LLC. It includes a declaration that the LLC manager understands the implications of providing a social security number to the third-party designee for the purpose of obtaining an EIN. The document requires the date and signature of the LLC manager.",
+              "ExampleName": "DLF Engagement",
+              "ExampleDescription": " This document is an engagement letter from Dixon Law Firm, PLLC (d/b/a DLF Private Client) to a client for the formation of a limited liability company (LLC). The letter outlines the scope of services, which includes forming the LLC, drafting an operating agreement, obtaining an EIN and domain/email for the company.",
               "Forms": [
                 {
                   "Inputs": [
@@ -87,7 +87,7 @@
   "ExampleNumber": 41,
   "CFREnabled": "NonCFR",
   "ExampleName": "Third Party Authorization Form",
-  "ExampleDescription": "This document is a statement authorizing a third party, Brandon C. Dixon of Dixon Law Firm, PLLC, to apply for and receive an Employer Identification Number (EIN) online on behalf of a specific LLC. It includes a declaration that the LLC manager understands the implications of providing a social security number to the third-party designee for the purpose of obtaining an EIN. The document requires the date and signature of the LLC manager.",
+  "ExampleDescription": " This document is a statement authorizing a third party, Brandon C. Dixon of Dixon Law Firm, PLLC (d/b/a DLF Private Client), to apply for and obtain an Employer Identification Number (EIN) on behalf of a limited liability company (LLC) through the online application process on the IRS website.",
   "Forms": [
     {
       "Inputs": [
